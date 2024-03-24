@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+  }
+  h1{
+    color: white;
+    font-family: Verdana;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+  }
+  .container{
+    background-color: white;
+    border-radius: 25px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 50px;
+    box-shadow: 1px 7px 1px 1px blue;
+    height: 15%;
+    width: 45%;
+    
+  }
+  .main{
+    height: 100%;
+    width: 100%;
+   
+  }
+  .inputs{
+    display: flex;
+  }
+  .heading{
+    margin-top: 0;
+    
+  }
+  #check-btn{
+    background: rgb(243, 47, 243);
+    border-radius: 20px;
+    margin-left: 15px;
+    font-size: 16px;
+    text-decoration: none;
+    border: none;
+    padding: 5px;
+    width: 80px;
+    cursor: pointer;
+  }
+  .second-container{
+    background-color: rgb(44, 92, 44);
+    height: 35%;
+    width: 60%;
+    margin-left: 19%;
+    margin-right: 20%;
+    margin-top: 5%;
+    border-radius: 25px;
+    padding: 10px;
+    
+  }
+  .text{
+    font-size: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    
+    color: white;
+  }
